@@ -60,7 +60,8 @@ body {
     font-weight: bold;
     font-size: 30px;
     border: none;
-    background-color: #1885f1;
+    background: linear-gradient(92.88deg, #4766d8 9.16%, #5643CC 43.89%, #673FD7 64.72%);
+    text-shadow: rgba(0, 0, 0, 0.25) 0 3px 8px;
     color: #000c8f;
     transition: 0.5s;
     margin-left: auto;
@@ -72,7 +73,7 @@ body {
 }
 
 .btn:hover {
-    background-color: #008f81;
+    background: linear-gradient(92.88deg, #446cff 9.16%, #634aff 43.89%, #6e39ff 64.72%);
     color: #00ffea;
     cursor: pointer;
 }
